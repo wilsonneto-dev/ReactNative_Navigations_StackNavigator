@@ -6,8 +6,6 @@ export default StyleSheet.create({
     flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'center',
-    borderColor: '#000',
-    borderWidth: 1,
   },
 
   button: {
