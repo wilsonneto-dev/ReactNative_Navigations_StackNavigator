@@ -1,6 +1,6 @@
 import React from 'react';
-import Login from './pages/login';
+import Routes from './routes';
 
 export default props => {
-  return <Login />;
+  return <Routes />;
 };

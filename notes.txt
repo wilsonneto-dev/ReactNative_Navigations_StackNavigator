@@ -1,0 +1,6 @@
+Enviroment Vars:
+export ANDROID_HOME=/usr/android-sdk
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+
+Error: spawnSync ./gradlew EACCES:
+chmod 755 android/gradlew 
