@@ -1,3 +1,3 @@
-import navigation from './animatedSwitch';
+import navigation from './stackNavigator';
 
 export default navigation;
